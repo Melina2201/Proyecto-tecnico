@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background-image:url("./fondo3.jpg");
+  background-position: center;
+  background-size: cover;
+margin: 0;
 }
 
 code {
