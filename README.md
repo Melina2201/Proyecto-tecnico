@@ -13,6 +13,7 @@
 
 <br>
 <h2> Instrucciones 🛠️ </h2>
+<ul>:heavy_check_mark: Para ver la aplicación, simplemente ingresa al siguiente enlace: <a href="https://proyecto-tecnico-befntdq0r-acunamelina2201-gmailcom.vercel.app/">Proyecto Técnico</a> o podes seguir los siguientes pasos:</ul>
 <ul>:heavy_check_mark: Descargar repositorio</ul>
 <ul>:heavy_check_mark: Abrirlo en un editor como Visual Code Studio</ul>
 <ul>:heavy_check_mark: Posicionarse en la carpeta principal para abrir la terminal</ul>
