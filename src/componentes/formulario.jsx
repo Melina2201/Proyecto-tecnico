@@ -43,7 +43,7 @@ export default function Form(){
           <div className={style.conteiner}>
             <h1 className={style.titulo}>PRUEBA TÉCNICA BDO</h1>
             <p>Este proyecto tiene como funcionalidad que se pueda subir un archivo .txt, donde al seleccionar "leer archivo", se desplegará abajo un
-                cuadro de cinco entradas. Si se intenta seleccionar "leer archivo" sin haber subido un texto previamente aparecerá un mensaje de 
+                cuadro de cinco entradas: ID, NOMBRE, APELLIDO, EMAIL, GÉNERO. Si se intenta seleccionar "leer archivo" sin haber subido un texto previamente aparecerá un mensaje de 
                 error.
             </p>
             <p>Por otro lado, si el archivo llega con información faltante, el cuadro tendrá esa celda vacia de color rojo. Además, al pasar el mouse
